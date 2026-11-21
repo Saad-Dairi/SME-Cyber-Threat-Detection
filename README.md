@@ -1,4 +1,4 @@
-# SME Cyber Threat Early Warning System 🛡️
+# SME Cyber Threat Early Warning System
 
 ## Overview
 This project is a hybrid cyber threat early warning system designed to proactively protect Small and Medium-sized Enterprises (SMEs). It combines Threat Intelligence feeds with a custom Deep Learning model to classify and detect malicious URLs in real-time. 
